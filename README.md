@@ -10,3 +10,4 @@ Notes:
 5 buttons appear around mouse based specific movemeant. Buttons can take you to any website or application with Just 1 Click. 
 
 11/11/2020
+ -Dont steal my app idea Amaan
